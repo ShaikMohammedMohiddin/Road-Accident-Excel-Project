@@ -1,1 +1,1 @@
-# Road-Accident-Excel-Project
+I created a Road Accident Dashboard in Excel, analyzing 2021-2022 data to identify accident trends. The dashboard includes key metrics like casualties by severity and vehicle type, with interactive visuals for data-driven decision-making on road safety improvements.
